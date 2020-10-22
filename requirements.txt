@@ -1,5 +1,4 @@
 uk_covid19
 voila
-bqplot
 matplotlib
 pandas
