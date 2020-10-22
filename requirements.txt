@@ -1,6 +1,5 @@
 uk_covid19
 voila
-voila-material
 bqplot
 matplotlib
 pandas
